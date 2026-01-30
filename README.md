@@ -1,6 +1,6 @@
 <!-- MOVING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;DevOps+Engineer;Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+and+Secure+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi I'm Shashikant;Java+Full+Stack+Developer;DevOps+Engineer;Spring+Boot+%7C+AWS+%7C+Docker+%7C+Kubernetes;Building+Scalable+and+Secure+Systems" />
 </p>
 
 ---
@@ -13,108 +13,60 @@ I specialize in **Java Full Stack Development** combined with **DevOps practices
 
 ---
 
-## 🧠 Tech Stack
-
-### 💻 Backend
-- Java (Core & Advanced)
-- Spring Boot
-- Spring MVC
-- Spring Security
-- Hibernate / JPA
-- RESTful APIs
+## 🧠 Tech tool Stack
 
 ### 🌐 Frontend
-- HTML5, CSS3
-- JavaScript
-- React.js
-- Bootstrap
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+</p>
+
+### 💻 Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+</p>
 
 
 ### 🗄 Databases
-- MySQL
-- PostgreSQL
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
+
 
 ## ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
 
-- AWS (EC2, S3, IAM, VPC)
-- Docker & Docker Compose
-- Kubernetes
-- Nginx (Reverse Proxy)
-- Jenkins (CI/CD)
-- Git & GitHub
-- Linux (Ubuntu)
-- Shell Scripting
-- Kubernetes
-
----
-
-## 🏗 Architecture Experience
-
-- Monolithic & Microservices Architecture
-- Three-Tier Architecture
-- Reverse Proxy (Nginx)
-- Cloud-native Deployments
-- Secure Application Design
 
 ---
 
-## 🔄 CI/CD Workflow
-- pipelines using Jenkins
-  
-```text
-Code → GitHub → Jenkins → Docker → AWS EC2 → Kubernetes → Production
-📂 Featured Projects
-🚀 Spring Boot + MySQL + Nginx (Reverse Proxy)
 
-Deployed on AWS EC2
+## 🔥 Optional: Badge-style
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Separate Proxy, App & DB servers
+---
 
-Secure & scalable architecture
-
-📦 Dockerized Microservices Application
-
-Spring Boot microservices
-
-Docker Compose & Kubernetes
-
-Centralized logging & monitoring
-
-🌐 Full Stack Web Application
-
-React + Spring Boot
-
-REST APIs
-
-Cloud deployment with CI/CD
-
-🔐 Security Practices
-
-Environment-based configuration
-
-Secure credentials handling
-
-IAM & Security Groups
-
-Reverse proxy & network isolation
-
-🎯 What I Focus On
-
-Clean & maintainable code
-
-Production-ready deployments
-
-Automation & reliability
-
-Performance & scalability
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github.com/Shashikant2025/Shashikant2025/edit/main/README.md/api?username=Shashikant2025&show_icons=true&theme=tokyonight" /> </p>
-🤝 Let's Connect
-
-💼 LinkedIn:https://www.linkedin.com/in/shashikant-nandargi-7066a427a/
-
-📧 Email: gshashikanth343@.com
-
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/> </p> ```
