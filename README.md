@@ -5,7 +5,8 @@
 
 ---
 
-## 👋 Hi, I'm a Java Full Stack & DevOps Engineer
+## 👋 Hi, I'm a ![Shashikant](https://img.shields.io/badge/Shashikant-👋-blue?style=for-the-badge&animation=glow)
+
 
 🚀 Passionate about building **end-to-end scalable applications** — from clean backend APIs to cloud-native deployments.
 
