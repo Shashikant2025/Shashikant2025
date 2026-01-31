@@ -5,14 +5,8 @@
 
 ---
 
-## 👋 Hi, I'm a ![Shashikant](https://your-gif-link-here.gif)
-
-
-
-🚀 Passionate about building **end-to-end scalable applications** — from clean backend APIs to cloud-native deployments.
-
-I specialize in **Java Full Stack Development** combined with **DevOps practices**, ensuring applications are not only built well, but **deployed, monitored, and scaled professionally**.
-
+## 👋 Hi, I'm a Shashikant
+I am a Java Fullstack Developer passionate about building scalable, efficient, and user-friendly web applications. I enjoy working across the full development lifecycle—from designing responsive front-end interfaces to developing robust back-end APIs.
 ---
 
 ## 🧠 Tech tool Stack
